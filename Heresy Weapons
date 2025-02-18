@@ -118,6 +118,11 @@ dimwishlist:item=157601190&perks=169755979,1926441324
 dimwishlist:item=157601190&perks=169755979,2813913866
 
 
+// Backfang - Backfang (BD) (pve)
+//notes: Interesting mix.  MW: Shield Duration.  Aux Res 4 more shield, appended mag. If blocking with incoming dmg, move faster while blocking and 20% dmg increase
+dimwishlist:item=267672635&perks=580685494,1087426260,3526486541,2224838837
+
+
 // Backfang - Backfang (Aegis) (pve)
 //notes: A tier PVE weapon https://youtu.be/J4vlTsUwvVg tags:pve
 dimwishlist:item=267672635&perks=951095735,3966416502
